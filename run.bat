@@ -1,0 +1,1 @@
+haproxy.exe -f config.cfg -d
